@@ -22,6 +22,7 @@ pip install -r requirements.txt
 #Create Topic 
 docker exec -it docker-kafka-1 kafka-topics --create --topic tweets_streaming --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
 docker exec -it docker-kafka-1 kafka-topics --create --topic tweets_batch --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
+
 #Confirm
 docker exec -it docker-kafka-1 kafka-topics --list --bootstrap-server localhost:9092
 
