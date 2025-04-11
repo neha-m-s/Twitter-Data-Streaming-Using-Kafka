@@ -1,0 +1,142 @@
+[
+    {
+        "id": "1",
+        "text": "Kafka is amazing for real-time data streaming!",
+        "user": "data_guru",
+        "created_at": "2025-04-07T10:00:00Z",
+        "sent_at": "2025-04-09 15:08:32"
+    },
+    {
+        "id": "2",
+        "text": "Streaming tweets into PostgreSQL using Spark is smooth!",
+        "user": "ml_engineer",
+        "created_at": "2025-04-07T10:01:00Z",
+        "sent_at": "2025-04-09 15:08:34"
+    },
+    {
+        "id": "3",
+        "text": "Docker makes deploying Kafka so much easier \ud83d\ude80",
+        "user": "devops_wiz",
+        "created_at": "2025-04-07T10:02:00Z",
+        "sent_at": "2025-04-09 15:08:36"
+    },
+    {
+        "id": "4",
+        "text": "Love how Kafka handles high-throughput data ingestion \ud83d\udd25",
+        "user": "stream_queen",
+        "created_at": "2025-04-07T10:03:00Z",
+        "sent_at": "2025-04-09 15:08:38"
+    },
+    {
+        "id": "5",
+        "text": "Just visualized real-time tweets using Spark and Flask! \ud83d\udcbb",
+        "user": "viz_dev",
+        "created_at": "2025-04-07T10:04:00Z",
+        "sent_at": "2025-04-09 15:08:40"
+    },
+    {
+        "id": "6",
+        "text": "SQL and data streaming go hand in hand. #PostgreSQL #Kafka",
+        "user": "data_smith",
+        "created_at": "2025-04-07T10:05:00Z",
+        "sent_at": "2025-04-09 15:08:42"
+    },
+    {
+        "id": "7",
+        "text": "Building a tweet pipeline with Kafka, Spark, and Docker \ud83d\udee0\ufe0f",
+        "user": "pipeline_master",
+        "created_at": "2025-04-07T10:06:00Z",
+        "sent_at": "2025-04-09 15:08:44"
+    },
+    {
+        "id": "8",
+        "text": "Real-time analytics made easy with Apache Spark \ud83d\udca1",
+        "user": "bigdata_nerd",
+        "created_at": "2025-04-07T10:07:00Z",
+        "sent_at": "2025-04-09 15:08:46"
+    },
+    {
+        "id": "9",
+        "text": "Streaming hashtag trends into dashboards is satisfying \ud83d\udcca",
+        "user": "trends_hunter",
+        "created_at": "2025-04-07T10:08:00Z",
+        "sent_at": "2025-04-09 15:08:48"
+    },
+    {
+        "id": "10",
+        "text": "Trying out Kafka topics for tweet classification experiments.",
+        "user": "ai_researcher",
+        "created_at": "2025-04-07T10:09:00Z",
+        "sent_at": "2025-04-09 15:08:50"
+    },
+    {
+        "id": "11",
+        "text": "The power of distributed systems blows my mind \ud83e\udd2f",
+        "user": "scalable_thinker",
+        "created_at": "2025-04-07T10:10:00Z",
+        "sent_at": "2025-04-09 15:08:52"
+    },
+    {
+        "id": "12",
+        "text": "Kafka + Spark + PostgreSQL = Ultimate real-time stack! \ud83d\ude80",
+        "user": "stack_builder",
+        "created_at": "2025-04-07T10:11:00Z",
+        "sent_at": "2025-04-09 15:08:54"
+    },
+    {
+        "id": "13",
+        "text": "Data pipelines are the new black \ud83d\udda4 #DataEngineering",
+        "user": "trend_alert",
+        "created_at": "2025-04-07T10:12:00Z",
+        "sent_at": "2025-04-09 15:08:56"
+    },
+    {
+        "id": "14",
+        "text": "From tweets to insights in seconds \u2014 magic of Spark!",
+        "user": "insight_miner",
+        "created_at": "2025-04-07T10:13:00Z",
+        "sent_at": "2025-04-09 15:08:58"
+    },
+    {
+        "id": "15",
+        "text": "Getting started with Kafka was easier than expected.",
+        "user": "kafka_beginner",
+        "created_at": "2025-04-07T10:14:00Z",
+        "sent_at": "2025-04-09 15:09:00"
+    },
+    {
+        "id": "16",
+        "text": "PostgreSQL is holding up well under tweet load \ud83d\udcaa",
+        "user": "db_tuner",
+        "created_at": "2025-04-07T10:15:00Z",
+        "sent_at": "2025-04-09 15:09:02"
+    },
+    {
+        "id": "17",
+        "text": "Deploying Spark jobs via Docker is a lifesaver!",
+        "user": "container_hero",
+        "created_at": "2025-04-07T10:16:00Z",
+        "sent_at": "2025-04-09 15:09:04"
+    },
+    {
+        "id": "18",
+        "text": "Real-time dashboards are addictive to build \ud83e\udde0",
+        "user": "ui_wizard",
+        "created_at": "2025-04-07T10:17:00Z",
+        "sent_at": "2025-04-09 15:09:06"
+    },
+    {
+        "id": "19",
+        "text": "Backpressure management in Kafka is key for scaling.",
+        "user": "scale_sensei",
+        "created_at": "2025-04-07T10:18:00Z",
+        "sent_at": "2025-04-09 15:09:08"
+    },
+    {
+        "id": "20",
+        "text": "This tweet just went through my real-time pipeline \ud83d\udd04",
+        "user": "tweet_streamer",
+        "created_at": "2025-04-07T10:19:00Z",
+        "sent_at": "2025-04-09 15:09:10"
+    }
+]

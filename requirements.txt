@@ -1,0 +1,15 @@
+# Kafka-related
+kafka-python==2.0.2
+
+# Twitter API & environment management
+requests==2.31.0
+python-dotenv==1.0.1
+
+# PostgreSQL DB
+psycopg2-binary==2.9.9
+
+# Spark Streaming
+pyspark==3.5.1
+
+Flask==2.2.5
+psycopg2-binary==2.9.9
