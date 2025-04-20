@@ -46,7 +46,7 @@ Terminal 2:
 ```
 python consumer.py
 ```
-#Check the Postresql for querying
+#Check the Postresql for querying.
 Terminal 3:
 ```
 docker exec -it docker-postgres-1 psql -U postgres -d twitter_data
