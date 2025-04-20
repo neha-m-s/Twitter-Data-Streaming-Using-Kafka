@@ -3,7 +3,7 @@ and visualize the insights via a Flask-based dashboard. Additionally, the projec
 measuring metrics such as execution time and accuracy.
 
 #Prerequisites
->	Python: Version 3.10 or above
+>	Python: Version 3.10 or above<br/>
 >	Docker Desktop: For running containerized services
 >	Java (JDK 8+): Required for Apache Spark
 >	Kafka & Zookeeper: Set up within Docker
@@ -46,7 +46,7 @@ Terminal 2:
 ```
 python consumer.py
 ```
-#Check the Postresql for querying.
+#Check the Postresql for querying
 Terminal 3:
 ```
 docker exec -it docker-postgres-1 psql -U postgres -d twitter_data
