@@ -4,14 +4,14 @@ measuring metrics such as execution time and accuracy.
 
 #Prerequisites
 >	Python: Version 3.10 or above<br/>
->	Docker Desktop: For running containerized services
->	Java (JDK 8+): Required for Apache Spark
->	Kafka & Zookeeper: Set up within Docker
->	PostgreSQL: Set up within Docker
->	Apache Spark: Installed locally or containerized
->	VS Code / PyCharm (optional): For code editing
+>	Docker Desktop: For running containerized services<br/>
+>	Java (JDK 8+): Required for Apache Spark<br/>
+>	Kafka & Zookeeper: Set up within Docker<br/>
+>	PostgreSQL: Set up within Docker<br/>
+>	Apache Spark: Installed locally or containerized<br/>
+>	VS Code / PyCharm (optional): For code editing<br/>
 
-#Start Docker Containers
+#Start Docker Containers<br/>
 Ensure Docker is running, then start the services:
 ```
 cd docker
@@ -46,14 +46,14 @@ Terminal 2:
 ```
 python consumer.py
 ```
-#Check the Postresql for querying
+#Check the Postresql for querying<br/>
 Terminal 3:
 ```
 docker exec -it docker-postgres-1 psql -U postgres -d twitter_data
 SELECT * FROM tweets LIMIT 10;
 ```
 
-#Run the spark batch processing and stream the data
+#Run the spark batch processing and stream the data<br/>
 Terminal 1:
 ```
 spark-submit --jars "path/to/postgresql-42.7.3" "path/to/batch_job.py"
